@@ -2,7 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: https://tmcorreia.github.io
+baseurl: /QBioImaging
+source-code: https://github.com/tmcorreia/QBioImaging
 title: Your Awesome Site
 email: your-email@domain.com
 author: Your Name
