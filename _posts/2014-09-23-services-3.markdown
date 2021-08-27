@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: DL.png
+category: research
+title: Deep Learning 👩🏻‍💻
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Our active research projects aim to develop deep learning-based methods for image reconstruction from accelerated scans, automated detection, segmentation and classification tasks for diagnosis, prognosis, and therapy response prediction. 

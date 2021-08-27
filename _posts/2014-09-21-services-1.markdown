@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+img: OI.png
+category: research
+title: OPTIMAR ~ OPTical Imaging 🐟
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  The EU-funded [OPTIMAR](https://cordis.europa.eu/project/id/867450) project aims to investigate the specific molecular signalling pathways associated with abnormal flatfish metamorphosis using 3D optical imaging techniques.

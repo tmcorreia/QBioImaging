@@ -1,10 +1,9 @@
 ---
 layout: default
-img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+img: CMR.png
+category: research
+title: Cardiac MRI 🧲
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Our research is also focused on the development of accelerated acquisition, undersampled reconstruction and motion correction techniques for free-breathing cardiac Magnetic Resonance Imaging (MRI) for diagnosing cardiovascular disease. We are particularly interested in the application of these methods to 3D whole-heart coronary MRI and quantitative first-pass myocardial perfusion and their translation into clinical practice.
+ 

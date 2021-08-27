@@ -5,10 +5,11 @@
 url: https://tmcorreia.github.io
 baseurl: /QBioImaging
 source-code: https://github.com/tmcorreia/QBioImaging
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
+
+title: QBI Home
+email: teresa.correia@kcl.ac.uk
+author: Teresa Correia
+description: > # Quantitative Bioimaging group at CCMAR MRI Optical Imaging Deep Learning Image Reconstruction Processing 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description."
@@ -27,8 +28,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/TeresaM2Correia
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://github.com/QBioImaging
+  - title: send
+    url: https://www.ccmar.ualg.pt/users/tmcorreia
