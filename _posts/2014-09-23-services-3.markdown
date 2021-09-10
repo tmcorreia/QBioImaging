@@ -8,4 +8,7 @@ description: |
 Our active research projects aim to develop deep learning-based methods for image reconstruction from accelerated scans, automated detection, segmentation and classification tasks for diagnosis, prognosis, and therapy response prediction. 
 
 **News:** <font size="3">  Our project "Uncovering the secrets of marine fish with NVIDIA" has been awarded an 🌟 NVIDIA 🌟 Academic grant 🎉</font> 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a48bc990c63c967213feba3cdbc7b3d9076d28b8
